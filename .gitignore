@@ -8,3 +8,8 @@ build/side.txt
 *.doc 
 
 local.txt
+
+# Окружение
+venv
+.venv
+venv/
